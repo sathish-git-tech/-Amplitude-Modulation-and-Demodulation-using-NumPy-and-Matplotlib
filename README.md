@@ -77,6 +77,9 @@ plt.grid(True)
 plt.tight_layout()
 plt.show()
 ```
+# __Tabulation__:
+<img width="1033" height="1280" alt="image" src="https://github.com/user-attachments/assets/d751af3b-34ef-4dcb-84e2-02290aef85b1" />
+
  # __Output__:
 
 <img width="1091" height="866" alt="Screenshot 2025-11-17 202721" src="https://github.com/user-attachments/assets/5c609d90-e3c8-4434-a329-5eb278fafea9" />
